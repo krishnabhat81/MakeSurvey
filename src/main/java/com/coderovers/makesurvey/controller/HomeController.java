@@ -1,4 +1,4 @@
-package com.coderovers.makesurvey;
+package com.coderovers.makesurvey.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
