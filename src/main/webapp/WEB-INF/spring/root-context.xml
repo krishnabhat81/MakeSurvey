@@ -48,9 +48,9 @@
 	<bean id="dataSource"
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://localhost:3306/makeSurvey" />
-		<property name="username" value="makeSurvey" />
-		<property name="password" value="makeSurvey" />
+		<property name="url" value="jdbc:mysql://localhost:3306/makesurvey" />
+		<property name="username" value="makesurvey" />
+		<property name="password" value="makesurvey" />
 	</bean>
 
 
