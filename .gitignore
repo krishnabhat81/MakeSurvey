@@ -1,1 +1,10 @@
 src/main/webapp/web-inf/spring/root-context.xml
+.classpath
+.project
+.settings/
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
